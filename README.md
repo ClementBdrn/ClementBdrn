@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @ClementBdrn a 19 years old French developper !
+# Hello !
+- 👋 I’m @ClementBdrn a 19 years old French developper !
 - 👀 I’m interested in a lot of IT subjects : software development, AI, database management, ...
 - 📫 You can reach me by email "clembadrone.pro@gmail.com" or directly on my linkedIn "[Clément BADRONE"](https://www.linkedin.com/in/cl%C3%A9ment-badrone/)"
 
